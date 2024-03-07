@@ -1,4 +1,4 @@
-# Workshop on LaTeX
+# Hands on LaTeX Workshop
 
 ![](header.jpg)
 
