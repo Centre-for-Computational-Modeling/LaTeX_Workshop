@@ -1,6 +1,6 @@
 # Hands on LaTeX Workshop
 
-![](header.jpg)
+![](latex.png)
 
 ## Objectives
 
