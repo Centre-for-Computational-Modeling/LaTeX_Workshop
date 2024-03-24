@@ -29,7 +29,7 @@ The workshop will cover the following titles:
 1. Dr. D. Aravinthan
 2. Dr. Sabarathinam Srinivasan
 3. Dr. P. A. Praveen
-4. Dr. Leokingston
+4. Dr. S. Leokingston
 
 ## Detailed Work Plan
 
