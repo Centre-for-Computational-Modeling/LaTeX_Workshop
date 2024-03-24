@@ -61,6 +61,7 @@ The workshop will cover the following titles:
 * Basic beamer
 * Resume templates
 * Poster templates
+* Manuscrript preparation for different journals
 
 ### Day TWO (April 3rd, 2024): Hands-on 4: (Dr. P. A Praveen)
 
