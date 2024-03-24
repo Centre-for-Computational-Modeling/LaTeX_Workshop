@@ -20,18 +20,16 @@ The workshop will cover the following titles:
 
 * People who associated with academia & research labs
 * Inparticular,
-  * Final year undergraduate and post graduate students
-  * Researchers
+  * Researchers who are about to submit thesis, final year undergraduate and post graduate students
   * Conference attendes and organizers
 * and other people who require professional type setting
 
 ## People
 
 1. Dr. D. Aravinthan
-2. Dr. R. Jothimurugan
+2. Dr. Sabarathinam Srinivasan
 3. Dr. P. A. Praveen
-4. Dr. S. Sabarathinam
-5. Dr. K. Suresh
+4. Dr. Leokinston
 
 ## Detailed Work Plan
 
