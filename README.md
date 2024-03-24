@@ -33,13 +33,13 @@ The workshop will cover the following titles:
 
 ## Detailed Work Plan
 
-### Day ZERO: Getting Ready  (Jothi & Praveen)
+### Day ZERO: Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr Dinesh Vijay -- CNS and CCM)
 
 * Installation using ISO file 
   * Linux (Praveen); Windows
 * Preffered editors and PDF viewers
 
-### Day ONE: Basics (Suresh)
+### Day ONE (March 27th 2024): Hands-on 1: Basics (Dr. D. Aravinthan)
 
 * Preamble & code
 * Sections
@@ -49,24 +49,21 @@ The workshop will cover the following titles:
 * Turn ON & OFF: Pg Number, Section number etc.
 * Typing MATH
 
-### Day TWO: Tables & Math (Jothi)
+### Day ONE (March 27th 2024): Hands-on 2: Tables & Math (Dr. S. Sabarathinam)
 
 * Equations: Integrals, Matrices, Summation, Differention etc.
 * Tables & Figures
 * Bibliography
-
-### Day THREE: Documents (Sabarathinam)
-
 * Report, Article, Chapter, Thesis
 * Relevant packages
 
-### Day FOUR: Beamer, Resume and Posters (Aravinthan)
+### Day TWO (April 3rd, 2024): Hands-on 3: Beamer, Resume and Posters (Dr. Leokinston)
 
 * Basic beamer
 * Resume templates
 * Poster templates
 
-### Day FIVE: Version control (Praveen)
+### Day TWO (April 3rd, 2024): Hands-on 4: (Dr. P. A Praveen)
 
 * Version control
 * Overleaf
