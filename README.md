@@ -29,7 +29,7 @@ The workshop will cover the following titles:
 1. Dr. D. Aravinthan
 2. Dr. Sabarathinam Srinivasan
 3. Dr. P. A. Praveen
-4. Dr. Leokinston
+4. Dr. Leokingston
 
 ## Detailed Work Plan
 
@@ -56,7 +56,7 @@ The workshop will cover the following titles:
 * Report, Article, Chapter, Thesis
 * Relevant packages
 
-### Day TWO (April 3rd, 2024): Hands-on 3: Beamer, Resume and Posters (Dr. Leokinston)
+### Day TWO (April 3rd, 2024): Hands-on 3: Beamer, Resume and Posters (Dr. Leokingston)
 
 * Basic beamer
 * Resume templates
