@@ -33,10 +33,9 @@ The workshop will cover the following titles:
 
 ## Detailed Work Plan
 
-### Day ZERO: Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr Dinesh Vijay -- CNS and CCM)
+### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr Dinesh Vijay -- CNS and CCM)
 
 * Installation using ISO file 
-  * Linux (Praveen); Windows
 * Preffered editors and PDF viewers
 
 ### Day ONE (March 27th 2024): Hands-on 1: Basics (Dr. D. Aravinthan)
