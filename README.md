@@ -25,23 +25,8 @@ The workshop will cover the following titles:
 * and other people who require professional type setting
 
 ## Resource Persons
-![](Dr.Aravindan4.jpg)
-1. Dr. Aravinthan​ Devarasu <br>
-Senior Lecturer and Head, <br>
-Department of  ​Sciences, <br>
-Mathematics and Education, St. Joseph University in Tanzania, Dar Es Salaam, Tanzania.
 
-
-2. Dr. Sabarathinam Srinivasan
-   ![](saba.jpeg)
-Fellow, Laboratory of Complex Systems Modelling and Control, <br>
-Faculty of Computer Science, HSE University <br>
-Moscow, Russia.
-
-4. Dr. P. A. Praveen
-
-
-5. Dr. S. Leokingston
+![](RP.jpg)
 
 ## Detailed Work Plan
 
