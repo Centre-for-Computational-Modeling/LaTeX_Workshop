@@ -33,12 +33,14 @@ Mathematics and Education, St. Joseph University in Tanzania, Dar Es Salaam, Ta
 
 
 2. Dr. Sabarathinam Srinivasan
+   ![](saba.jpg)
+Fellow, Laboratory of Complex Systems Modelling and Control, <br> Faculty of Computer Science, HSE University <br>
+Moscow, Russia.
+
+4. Dr. P. A. Praveen
 
 
-3. Dr. P. A. Praveen
-
-
-4. Dr. S. Leokingston
+5. Dr. S. Leokingston
 
 ## Detailed Work Plan
 
