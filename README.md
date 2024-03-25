@@ -1,6 +1,6 @@
 # Hands on LaTeX Workshop
 
-![](latex.png)
+![](11.png)
 
 ## Objectives
 
