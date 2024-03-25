@@ -25,10 +25,12 @@ The workshop will cover the following titles:
 * and other people who require professional type setting
 
 ## Resource Persons
-![](Dr.Aravindan.png)
+![](Dr.Aravindan2.jpg)
 1. Dr. Aravinthan​ Devarasu
+   
 Senior Lecturer and Head,
-Department of  ​Sciences, Mathematics and Education, St. Joseph University in Tanzania, Dar Es Salaam, Tanzania.
+Department of  ​Sciences, 
+Mathematics and Education, St. Joseph University in Tanzania, Dar Es Salaam, Tanzania.
 3. Dr. Sabarathinam Srinivasan
 4. Dr. P. A. Praveen
 5. Dr. S. Leokingston
