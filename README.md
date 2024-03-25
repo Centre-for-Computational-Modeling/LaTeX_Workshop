@@ -24,16 +24,18 @@ The workshop will cover the following titles:
   * Conference attendes and organizers
 * and other people who require professional type setting
 
-## People
-
-1. Dr. D. Aravinthan
-2. Dr. Sabarathinam Srinivasan
-3. Dr. P. A. Praveen
-4. Dr. S. Leokingston
+## Resource Persons
+![](Dr.Aravindan.png)
+1. Dr. Aravinthan​ Devarasu
+Senior Lecturer and Head,
+Department of  ​Sciences, Mathematics and Education, St. Joseph University in Tanzania, Dar Es Salaam, Tanzania.
+3. Dr. Sabarathinam Srinivasan
+4. Dr. P. A. Praveen
+5. Dr. S. Leokingston
 
 ## Detailed Work Plan
 
-### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr. Dinesh Vijay -- CNS and CCM)
+### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Manikandan, Dr. Dianavinnarasi and Dr. Dinesh Vijay -- CNS and CCM)
 
 * Installation using ISO file 
 * Preffered editors and PDF viewers
