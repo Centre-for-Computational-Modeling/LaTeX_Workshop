@@ -27,6 +27,8 @@ The workshop will cover the following titles:
 ## Resource Persons
 
 <img src="RP.jpg" width="600">
+
+
 ## Detailed Work Plan
 
 ### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Manikandan, Dr. Dianavinnarasi and Dr. Dinesh Vijay -- CNS and CCM)
