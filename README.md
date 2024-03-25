@@ -26,7 +26,7 @@ The workshop will cover the following titles:
 
 ## Resource Persons
 
-![](RP.jpg)
+![](RP.jpg =100x20)
 
 ## Detailed Work Plan
 
