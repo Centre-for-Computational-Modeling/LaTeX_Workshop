@@ -33,7 +33,7 @@ The workshop will cover the following titles:
 
 ## Detailed Work Plan
 
-### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr Dinesh Vijay -- CNS and CCM)
+### Day ZERO (26 March 2024 -- CITAR IDEA lab): Getting Ready  ( Dr. Dianavinnarasi, Dr. Manikandan and Dr. Dinesh Vijay -- CNS and CCM)
 
 * Installation using ISO file 
 * Preffered editors and PDF viewers
@@ -45,7 +45,7 @@ The workshop will cover the following titles:
 * Formating the document
 * Error messages & debugging
 * Compiling using PDFlatex
-* Turn ON & OFF: Pg Number, Section number etc.
+* Turn ON & OFF: Page Number, Section number etc.
 * Typing MATH
 
 ### Day ONE (March 27th 2024): Hands-on 2: Tables & Math (Dr. S. Sabarathinam)
@@ -61,7 +61,7 @@ The workshop will cover the following titles:
 * Basic beamer
 * Resume templates
 * Poster templates
-* Manuscrript preparation for different journals
+* Manuscript preparation for different journals
 
 ### Day TWO (April 3rd, 2024): Hands-on 4: (Dr. P. A Praveen)
 
