@@ -61,7 +61,10 @@ The workshop will cover the following titles:
 * Poster templates
 * Manuscript preparation for different journals
 
-### Day TWO (April 3rd, 2024): Hands-on 4: (Dr. P. A Praveen)
+### Day TWO (April 3rd, 2024): Hands-on 4: (Dr. P. A. Praveen)
 
-* Version control
-* Overleaf
+**Beyond the basics: version control and more**
+
+- Version control
+- Github and overleaf
+- LaTeX in Markdown syntax
