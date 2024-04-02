@@ -67,4 +67,3 @@ The workshop will cover the following titles:
 
 - Version control
 - Github and overleaf
-- LaTeX in Markdown syntax
